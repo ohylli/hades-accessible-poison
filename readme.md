@@ -6,6 +6,6 @@ This is a small accessiblity mod for the game Hades. It is intended for blind pl
 
 Mod Util and Mod Importer used with the other accessiblity mods are required. The installation process is also the same:
 
-- Download accessible poison release and extract the zip.
-- Copy the AccessiblePoison folder tto your Hades Mods folder
-- Run modimporter.py.
+- Download [accessible poison release](https://github.com/ohylli/hades-accessible-poison/releases/download/v1/AccessiblePoison.zip) and extract the zip.
+- Copy the AccessiblePoison folder the zip file contained tto your Hades Mods folder
+- Run modimporter.py from your Hades content folder.
